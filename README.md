@@ -1,6 +1,6 @@
- COVID-19 Data Analysis Project
+# COVID-19 Data Analysis Project
 
- Project Overview
+## Project Overview
 
 This project is a comprehensive data analysis of the *Our World in Data COVID-19 dataset. It was carried out as part of an academic assignment by Faith Sawe, with Brian Richard contributing to assist in completing the assignment.
 
@@ -17,7 +17,7 @@ Using the OWID COVID dataset, the project explores key trends and patterns surro
 
 ## 📂 Dataset
 
-- *Source*: [Our World in Data - COVID-19 Dataset](https://github.com/owid/covid-19-data)
+- *Source*: [Owid-Covid-Data Dataset](https://github.com/owid/covid-19-data)
 - *Format*: CSV  
 - *Description*: Contains worldwide COVID-19 statistics including total cases, deaths, vaccination progress, testing, hospitalizations, and demographic metadata.
 
